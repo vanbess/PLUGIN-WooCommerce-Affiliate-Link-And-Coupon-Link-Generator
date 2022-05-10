@@ -1,0 +1,29 @@
+div#sbwcaff_settings >h3 {
+    background: white;
+    padding: 20px;
+    border-left: 4px solid #666;
+    margin-left: -20px;
+    margin-top: 0px;
+    box-shadow: -2px 2px 5px #00000012;
+}
+
+div#sbwcaff-settings-input-cont > p {
+    font-style: italic;
+    font-weight: 500;
+}
+
+div#sbwcaff-settings-input-cont {
+    width: 50%;
+    min-width: 360px;
+}
+
+div#sbwcaff-settings-input-cont input {
+    display: block;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+div#sbwcaff-settings-input-cont button {
+    width: 100%;
+    margin-bottom: 30px;
+}
