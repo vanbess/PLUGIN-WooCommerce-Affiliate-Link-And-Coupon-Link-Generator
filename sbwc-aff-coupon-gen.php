@@ -1,9 +1,9 @@
 <?php
 
 /**
- * Plugin Name: SBWC Aff Link and Coupon Generator
+ * Plugin Name: SBWC Aff Link and Coupon Generator - Polr URL Shortener Implementation
  * Author: WC Bessinger
- * Version: 1.0.1
+ * Version: 1.0.2
  * Description: Allows for generation of unique affiliate link and generation of unique one time use coupon when link is visited
  */
 if (!defined('ABSPATH')) :
